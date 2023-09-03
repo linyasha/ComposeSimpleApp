@@ -62,7 +62,7 @@ fun ComposeSimpleAppTheme(
             WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = !darkTheme
         }
     }
-k
+
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
