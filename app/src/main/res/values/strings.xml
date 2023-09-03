@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeSimpleApp</string>
+    <string name="unknown_theme_exception" translatable="false">An unknown application theme has been detected - %1$s. Contact the application developer</string>
+</resources>
